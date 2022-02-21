@@ -4,3 +4,7 @@ mlruns
 .vscode
 *.pkl
 *.log
+data
+new_data
+models
+h2o-checkpoints
