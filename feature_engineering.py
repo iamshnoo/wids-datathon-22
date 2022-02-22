@@ -1,3 +1,6 @@
+## Based on the notebook https://www.kaggle.com/angiengkh/wids-2022-feature-importance-selection
+## along with some minor modifications based on a separate discussion thread.
+
 import pandas as pd
 
 INPUT = "data/"
